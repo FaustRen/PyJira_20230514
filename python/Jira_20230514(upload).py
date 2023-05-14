@@ -3,8 +3,6 @@ from jira import JIRA
 import requests
 from requests.auth import HTTPBasicAuth
 import json
-import pandas as pd
-from IPython.display import display
 
 
 class PyJira:
